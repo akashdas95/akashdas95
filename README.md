@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, selenium, TestNG, Jmeter, Playwright**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to collaborate on **open source projects, Internship, Full time Job**
 
 - 👨‍💻 All of my projects are available at [https://akashdas95.github.io/portfolio_site/](https://akashdas95.github.io/portfolio_site/)
 
