@@ -1,4 +1,4 @@
-![Banner Image]( https://media.licdn.com/dms/image/v2/D5616AQEcwkbGEI15qw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732974209250?e=1738195200&v=beta&t=x7QSaw-kEotbhfHC4bA3Q-b0oDJ1bwk5hu56Tq6tim8 ) 
+![SDET (50 x 15 cm)](https://github.com/user-attachments/assets/a72b3519-7689-4fd4-812a-07e29a99f790)
 <h1 align="center">Hi 👋, I'm Akash Das</h1>
 <h3 align="center">A passionate SDET from Bangladesh</h3>
 <img align = "right" alt= "coding" width ="400" src= "https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
